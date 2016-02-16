@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denovaetnullius00brahgoog_0012.png"; bbox 0 0 3359 4476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 919 1962 2436 2321">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 919 1962 2436 2321">
+     <span class='ocr_line' id='line_1_1' title="bbox 1129 1962 2436 2136; baseline 0.044 -62"><span class='ocrx_word' id='word_1_1' title='bbox 1129 1962 1244 2094; x_wconf 57' lang='grc' dir='ltr'><em>[ᾗ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1254 2035 1413 2111; x_wconf 60' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1423 2022 1778 2116; x_wconf 62' lang='lat' dir='ltr'><em>amnibus,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1797 2043 1973 2112; x_wconf 59' lang='lat'><em>&amp;011⁴</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1989 2051 2279 2136; x_wconf 58' lang='lat' dir='ltr'><em>maenaa,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2293 2014 2436 2130; x_wconf 60' lang='lat' dir='ltr'><em>mss&#39;.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 919 2095 2378 2238; baseline 0.045 -76"><span class='ocrx_word' id='word_1_7' title='bbox 919 2095 1019 2167; x_wconf 75' lang='lat' dir='ltr'><em>Sic</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1032 2103 1219 2171; x_wconf 76' lang='lat' dir='ltr'><em>oculos</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1239 2116 1476 2198; x_wconf 78' lang='lat' dir='ltr'><em>pariter</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1495 2120 1712 2196; x_wconf 78' lang='lat' dir='ltr'><em>Coelum</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1729 2139 1901 2205; x_wconf 84' lang='lat' dir='ltr'><em>coniu</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1975 2164 2037 2212; x_wconf 80' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2053 2147 2378 2238; x_wconf 65' lang='lat' dir='ltr'><em>invnums</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1124 2198 2334 2321; baseline 0.04 -58"><span class='ocrx_word' id='word_1_14' title='bbox 1124 2198 1352 2272; x_wconf 70' lang='lat' dir='ltr'><em>Nos‘lra</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1363 2205 1502 2277; x_wconf 82' lang='lat' dir='ltr'><em>licet</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1512 2212 1686 2321; x_wconf 68' lang='lat' dir='ltr'><em>iungi</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1696 2236 1922 2316; x_wconf 76' lang='lat' dir='ltr'><em>cmporae</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1983 2255 2114 2304; x_wconf 71' lang='lat' dir='ltr'><em>erra</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 2128 2260 2334 2317; x_wconf 73' lang='lat' dir='ltr'><em>vetet.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
